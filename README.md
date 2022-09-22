@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lawrence-ekale
 - 👀 I’m interested in learning and identifying patterns.
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m now conversant with Java, C++, JavaScript, nodejs, expressjs and Kubernetes.
 - 💞️ I’m looking to collaborate on projects that can improve my skills
 - 📫 How to reach me is via Facebook @Motori Ekale Junior
 
