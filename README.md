@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lawrence-ekale
-- 🌱 I’m now conversant with Java, C++, JavaScript, vue js, nodejs, expressjs, Axon framework ,Spring boot, Event Sourcing , CQRS , docker, Micorservices and Kubernetes.
+- 🌱 I’m now conversant with Java,PHP, C++, JavaScript, vue js, nodejs, expressjs, Axon framework ,Spring boot, Event Sourcing , CQRS , docker, Micorservices and Kubernetes.
 - 💞️ I’m looking to collaborate on projects that can improve my skills
 - 📫 How to reach me is via LinkedIn https://www.linkedin.com/in/lawrence-ekale-33a55319b
 
